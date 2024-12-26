@@ -1,0 +1,28 @@
+Azure Copilot:
+
+1. how many VMs do I have - it writes a query automatically to find out the output for this 
+
+2. Copilot can design , operate, optimize, troubleshoot
+
+3. Look at the cpu and memory usage trend for VM-DC-01  over last 7 days,
+is it over utilized or under utilized, - it gives a answer..
+
+4. How I can resize my VM in azure - copilot provides a step by step guide with both portal flow and CLI flow,
+and you can simply follow that..
+
+5. Help me deploy a new VM - copilot provides you with list of queries, we need to simply run them, 
+and our new vm is created
+
+6. Help me choose the right vm size for my workload
+
+7. Help me create a vm for high availability
+
+8. Give me a strong password
+
+9. Show me defender for cloud
+
+10. How to write testcase using azure devops
+
+11. what is an epic in azure boards
+
+12. Azure Devops Origanizations
